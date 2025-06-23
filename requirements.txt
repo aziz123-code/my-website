@@ -1,0 +1,6 @@
+aiogram==3.20.0.post0
+requests==2.32.3
+ru_core_news_sm
+spacy==3.8.7
+psycopg2==2.9.10
+logging
